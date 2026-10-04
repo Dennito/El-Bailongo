@@ -17,8 +17,17 @@
     <itunes:category text="Music"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 03 Oct 2026 21:25:07 -0400</lastBuildDate>
-    <item>
+    <lastBuildDate>Sun, 04 Oct 2026 08:01:15 -0400</lastBuildDate>
+        <item>
+      <title>Quickie Life — El Bailongo</title>
+      <description>Episodio 2 de El Bailongo: los muñequitos presentan y bailan la canción "Quickie Life" de Feniceartist, con la letra en karaoke en pantalla. Canción: "Quickie Life" de Feniceartist — licencia Pixabay (uso comercial permitido).</description>
+      <pubDate>Sun, 04 Oct 2026 08:01:15 -0400</pubDate>
+      <guid isPermaLink="false">quickie-life-el-bailongo-2026-10-04</guid>
+      <enclosure url="https://files.catbox.moe/bpuico.mp4" length="105104908" type="video/mp4"/>
+      <itunes:duration>02:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  <item>
       <title>Mundo Caníbal — Piloto</title>
       <description>Episodio piloto de El Bailongo: los muñequitos presentan y bailan "Mundo Caníbal" de The Freak Fandango Orchestra, con la letra en karaoke. "Mundo Caníbal" by The Freak Fandango Orchestra — CC BY-SA 3.0.</description>
       <pubDate>Sat, 03 Oct 2026 21:25:07 -0400</pubDate>
