@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El Bailongo</title>
+    <link>https://github.com/Dennito/El-Bailongo</link>
+    <atom:link href="https://raw.githubusercontent.com/Dennito/El-Bailongo/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>El Bailongo: los muñequitos de Dennito presentan y bailan las canciones más fiesteras, con karaoke en pantalla.</description>
+    <language>es</language>
+    <copyright>© 2026 Dennito</copyright>
+    <itunes:author>Dennito</itunes:author>
+    <itunes:summary>El Bailongo: los muñequitos de Dennito presentan y bailan las canciones más fiesteras, con karaoke en pantalla.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Dennito</itunes:name>
+      <itunes:email>dennysbank@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://files.catbox.moe/n343ld.jpg"/>
+    <itunes:category text="Music"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Sat, 03 Oct 2026 21:25:07 -0400</lastBuildDate>
+    <item>
+      <title>Mundo Caníbal — Piloto</title>
+      <description>Episodio piloto de El Bailongo: los muñequitos presentan y bailan "Mundo Caníbal" de The Freak Fandango Orchestra, con la letra en karaoke. "Mundo Caníbal" by The Freak Fandango Orchestra — CC BY-SA 3.0.</description>
+      <pubDate>Sat, 03 Oct 2026 21:25:07 -0400</pubDate>
+      <guid isPermaLink="false">mundo-canibal-piloto-2026-10-03</guid>
+      <enclosure url="https://files.catbox.moe/hxgge3.mp4" length="163826642" type="video/mp4"/>
+      <itunes:duration>03:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
